@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Site</title>
-    <link>http://spaghetticode.it/</link>
+    <link>https://robycup.github.io/spaghetticode/</link>
     <description>Recent content on My New Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Apr 2017 20:27:52 +0200</lastBuildDate>
     
-	<atom:link href="http://spaghetticode.it/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://robycup.github.io/spaghetticode/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>fist</title>
-      <link>http://spaghetticode.it/post/fist/</link>
+      <link>https://robycup.github.io/spaghetticode/post/fist/</link>
       <pubDate>Thu, 27 Apr 2017 20:27:52 +0200</pubDate>
       
-      <guid>http://spaghetticode.it/post/fist/</guid>
+      <guid>https://robycup.github.io/spaghetticode/post/fist/</guid>
       <description>I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies became great.</description>
     </item>
     
